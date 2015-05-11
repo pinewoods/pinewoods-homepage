@@ -4,6 +4,13 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+/*Ismael*/
+
+.slogan {
+  font-size: 20px;
+  margin-top: 3px;
+}
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -4187,6 +4194,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand > img {
   display: block;
+  width: 115px;
+  margin-top: -5px;
+
 }
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
